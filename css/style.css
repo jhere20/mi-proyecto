@@ -1,0 +1,40 @@
+body {
+    background-image: url('../img/637159.png');
+    background-size: cover;
+}
+
+section{
+    margin-left: 30%;
+    margin-top: 10%;
+    background-color: rgba(225, 225, 225, 0.5);
+    width: 40%;
+    text-align: center;
+    border-radius: 10px;
+    height: 150px;
+}
+
+input {
+    border-style: outset solid;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 2px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+#Entrada {
+    text-align: center;
+    cursor: pointer;
+}
+
+.Login {
+    background: #000;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    margin-left: 30%;
+    margin: 20px auto;
+    padding: 10px;
+    width: 40%;
+    text-align: center;
+}
